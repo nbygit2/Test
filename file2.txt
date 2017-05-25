@@ -1,0 +1,4 @@
+The current time is: 18:27:26.88
+I am user2,  I created file1.
+I edited it last at 6:28PM on 5/24.
+Copied thsi file from file1.txt and then added this line.
